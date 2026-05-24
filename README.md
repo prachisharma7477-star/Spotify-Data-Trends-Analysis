@@ -22,7 +22,7 @@ A century of music data reveals a significant shift in listener preferences. The
 
 ### 3. Yearly Popularity Distribution
 Analysis of how track popularity scores are distributed across different eras, helping to identify "Golden Years" in the music industry.
-![Yearly Popularity](Screenshot%20(101).png)
+![Yearly Popularity](https://github.com/prachisharma7477-star/Spotify-Data-Trends-Analysis/blob/main/Yearly_Popularity.png)
 
 ### 4. Distribution of Audio Characteristics
 A deep dive into the technical attributes of the dataset, showing the variance in tempo, speechiness, and instrumentalness across the Spotify library.
