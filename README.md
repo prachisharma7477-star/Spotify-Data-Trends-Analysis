@@ -26,7 +26,7 @@ Analysis of how track popularity scores are distributed across different eras, h
 
 ### 4. Distribution of Audio Characteristics
 A deep dive into the technical attributes of the dataset, showing the variance in tempo, speechiness, and instrumentalness across the Spotify library.
-![Audio Distribution](Screenshot%20(99).png)
+![Audio Distribution](https://github.com/prachisharma7477-star/Spotify-Data-Trends-Analysis/blob/main/Audio_Distribution.png)
 
 ## 🚀 Key Findings
 - **The Loudness War:** There is a clear upward trend in "Loudness" and "Energy" starting from the late 20th century.
