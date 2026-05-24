@@ -14,7 +14,7 @@ This project performs a comprehensive analysis of Spotify's music catalog, cover
 
 ### 1. Feature Correlation Analysis
 This heatmap illustrates the relationship between various audio attributes. It identifies how "Energy" and "Loudness" strongly correlate, providing insights into modern production trends.
-![Feature Correlation](Screenshot%20(107).png)
+![Feature Correlation](https://github.com/prachisharma7477-star/Spotify-Data-Trends-Analysis/blob/main/Feature_Correlation.png)
 
 ### 2. The Evolution of Sound (1921–2020)
 A century of music data reveals a significant shift in listener preferences. The analysis tracks the decline of "Acousticness" and the rise of "Danceability" and "Energy" in global music.
