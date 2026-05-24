@@ -18,7 +18,7 @@ This heatmap illustrates the relationship between various audio attributes. It i
 
 ### 2. The Evolution of Sound (1921–2020)
 A century of music data reveals a significant shift in listener preferences. The analysis tracks the decline of "Acousticness" and the rise of "Danceability" and "Energy" in global music.
-![Music Evolution](Screenshot%20(103).png)
+![Music Evolution](https://github.com/prachisharma7477-star/Spotify-Data-Trends-Analysis/blob/main/Music_Evolution.png)
 
 ### 3. Yearly Popularity Distribution
 Analysis of how track popularity scores are distributed across different eras, helping to identify "Golden Years" in the music industry.
